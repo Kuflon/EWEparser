@@ -1,0 +1,17 @@
+NET Framework
+compiler
+ECMAScript
+elegant code
+interpreter
+Java
+JavaScript
+multi-paradigm language
+object-oriented language
+Perl
+PHP (PHP Hypertext Preprocessor)
+portability
+procedural language
+Python
+Ruby
+syntax
+VB (Visual Basic)
